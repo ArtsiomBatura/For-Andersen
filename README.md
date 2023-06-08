@@ -1,2 +1,2 @@
 # For-Andersen
-The code to start in the browser's console.
+The code should be run in the browser console.
